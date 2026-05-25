@@ -15,8 +15,8 @@ let supabaseConfigured = false;
 
 // ⬇️ These get filled automatically after you run "اختبار وحفظ" once
 // and upload the updated admin.js to GitHub:
-const HARDCODED_URL = "";   // e.g. "https://xxxx.supabase.co"
-const HARDCODED_KEY = "";   // e.g. "sb_publishable_..."
+const HARDCODED_URL = "https://geveguwtqbsigbzctmmc.supabase.co";   // e.g. "https://geveguwtqbsigbzctmmc.supabase.co"
+const HARDCODED_KEY = "sb_publishable_QJuBqAg-Y5esSOogwE2Wtg_WYLp6zBK";   // e.g. "sb_publishable_..."
 
 function initSupabase() {
   // 1. Try hardcoded values first (works for all visitors)
